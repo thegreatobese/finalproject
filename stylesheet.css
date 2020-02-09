@@ -2,8 +2,9 @@
 
 body {
   font-family: 'PT Serif', serif;
-   background-image: url("https://raw.githubusercontent.com/thegreatobese/Portfolio/master/wildfirebig.jpg");
+  background-image: url("https://raw.githubusercontent.com/thegreatobese/Portfolio/master/wildfirebig.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  color: green;
 }  
