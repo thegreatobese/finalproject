@@ -26,3 +26,7 @@ color: #00f7ff;
 li{
 color: #00f7ff;
 }
+.navbar {
+  overflow: hidden;
+  background-color: #724B7C;
+}
