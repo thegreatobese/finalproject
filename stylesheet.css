@@ -35,7 +35,7 @@ color: #00f7ff;
 .navbar a {
   float:left;
   display: block;
-  color: #EEA2C4;
+  color:  #08ff00;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -43,8 +43,8 @@ color: #00f7ff;
 }
 
 .navbar a:hover {
-  background-color: #422834;
-  color: #FFFFFF;
+  background-color: # #fbff00;
+  color: #08ff00;
 }
 
 .navbar a.active {
