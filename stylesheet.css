@@ -26,7 +26,28 @@ color: #00f7ff;
 li{
 color: #00f7ff;
 }
+
 .navbar {
-  overflow: hidden;
-  background-color: #724B7C;
+  overflow:hidden;
+  background-color: #5A1E39;
+}
+
+.navbar a {
+  float:left;
+  display: block;
+  color: #EEA2C4;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: #422834;
+  color: #FFFFFF;
+}
+
+.navbar a.active {
+  background-color: #FFFFFF;
+  color: Black;
 }
