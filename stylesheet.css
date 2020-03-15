@@ -12,7 +12,7 @@ h1{
 color:  #17ff00;
 font-size:50px;
 border: 10px solid yellow;
-padding:10px
+padding:10px;
   color:red;
   animation-name:obese;
   animation-duriation:4s;
@@ -26,7 +26,7 @@ padding:10px
   }
   50%{color: #33ffda;}
   
-}
+
   100%{color: blue;}
   
 }
