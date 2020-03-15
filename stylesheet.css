@@ -13,6 +13,22 @@ color:  #17ff00;
 font-size:50px;
 border: 10px solid yellow;
 padding:10px
+  color:red;
+  animation-name:obese;
+  animation-duriation:4s;
+  animation-iteration-count:infinite;
+}
+
+@keyframes obese{
+0%{
+  
+  color: red;
+  }
+  50%{color: #33ffda;}
+  
+}
+  100%{color: blue;}
+  
 }
 h2{
 color: #00f7ff;
